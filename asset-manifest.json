@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba944fb7.css",
-    "main.js": "/static/js/main.7f3ab422.js",
+    "main.css": "/static/css/main.bf62fb1d.css",
+    "main.js": "/static/js/main.cca88377.js",
     "static/js/787.c0f8c658.chunk.js": "/static/js/787.c0f8c658.chunk.js",
+    "static/media/IntroLogoAnimation.gif": "/static/media/IntroLogoAnimation.5e74a39dd203dce61238.gif",
     "static/media/air ticket.gif": "/static/media/air ticket.de5ea6f13fa2849db9d4.gif",
     "static/media/api.gif": "/static/media/api.dd81fd1f385b61e32431.gif",
     "static/media/Online marketing.gif": "/static/media/Online marketing.2f6ac351f0d40f4196e8.gif",
@@ -10,19 +11,18 @@
     "static/media/moneyTransfer.gif": "/static/media/moneyTransfer.3f3e4b4bcca49d8bd459.gif",
     "static/media/Logistics.gif": "/static/media/Logistics.ac83cf997e46cae3d20a.gif",
     "static/media/Calling.gif": "/static/media/Calling.57e6c2ae5200e6fe0b5b.gif",
-    "static/media/hero-img1.png": "/static/media/hero-img1.43020207739224c338bf.png",
     "static/media/logo.png": "/static/media/logo.7f322c813de386adbdc3.png",
     "static/media/team-2.jpg": "/static/media/team-2.b2008acdf74612d89b8f.jpg",
     "static/media/team-1.jpg": "/static/media/team-1.30c859cd9a02bb5dcc9a.jpg",
     "static/media/team-3.jpg": "/static/media/team-3.ca581ae1628e295ec2a0.jpg",
     "static/media/team-4.jpg": "/static/media/team-4.525dee063b26d6a44d1d.jpg",
     "index.html": "/index.html",
-    "main.ba944fb7.css.map": "/static/css/main.ba944fb7.css.map",
-    "main.7f3ab422.js.map": "/static/js/main.7f3ab422.js.map",
+    "main.bf62fb1d.css.map": "/static/css/main.bf62fb1d.css.map",
+    "main.cca88377.js.map": "/static/js/main.cca88377.js.map",
     "787.c0f8c658.chunk.js.map": "/static/js/787.c0f8c658.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba944fb7.css",
-    "static/js/main.7f3ab422.js"
+    "static/css/main.bf62fb1d.css",
+    "static/js/main.cca88377.js"
   ]
 }
